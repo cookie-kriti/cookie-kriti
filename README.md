@@ -2,6 +2,14 @@
   <img src="banner.png" alt="Banner">
 </p>
 
+## 📊 GitHub Stats
+
+![Kriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cookie-kriti&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie-kriti&layout=compact&theme=tokyonight)
+
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
